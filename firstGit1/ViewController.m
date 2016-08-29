@@ -20,6 +20,7 @@
     
     NSLog(@"hellojgjkhl");
     NSLog(@"rajesh");
+    NSLog(@"merge");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
